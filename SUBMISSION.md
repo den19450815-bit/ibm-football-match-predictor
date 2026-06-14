@@ -20,6 +20,7 @@ IBM Bob. The project follows the IBM SkillsBuild football prediction lab workflo
 - `notebooks/corelab.ipynb` completed project walkthrough
 - `app.py` Streamlit prototype
 - `src/` training and prediction code
+- IBM Bob usage screenshots in `docs/images/`
 - No secrets, tokens, private emails, or local machine paths in committed text
 
 ## Demo video checklist
@@ -29,7 +30,8 @@ IBM Bob. The project follows the IBM SkillsBuild football prediction lab workflo
 - Show notebook or training command
 - Run Streamlit app
 - Predict at least one matchup, for example Brazil vs Argentina
-- Mention IBM Bob usage
+- Show the IBM Bob evidence section in the README
+- Mention that Bob suggestions were verified before use
 - Mention limitations
 
 ## Challenge platform fields
@@ -38,4 +40,3 @@ IBM Bob. The project follows the IBM SkillsBuild football prediction lab workflo
 - Demo video URL: fill after recording/uploading
 - Technologies used: IBM Bob, Python, Jupyter, scikit-learn, Streamlit
 - Category/theme: AI in sports / predictive analytics
-

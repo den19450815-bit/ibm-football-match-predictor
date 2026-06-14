@@ -18,9 +18,8 @@ In the Streamlit app I select two teams, choose whether the match is neutral and
 
 ## 2:20-2:45 - IBM Bob usage
 
-IBM Bob was used to follow the official SkillsBuild lab style: generate notebook code, explain feature engineering, debug environment issues, and help shape the Streamlit prototype. The README includes the exact Bob prompts and how Bob supported the project.
+Open the README's IBM Bob evidence section. IBM Bob was used to follow the official SkillsBuild lab style: explain the model and prediction output, debug environment issues, and review the project documentation. Show the two screenshots briefly. Mention that Bob's suggestions were checked before being applied, including an environment-name suggestion that was corrected after reviewing the actual project files.
 
 ## 2:45-3:00 - Limitations and next steps
 
 This is a proof of concept, not a betting tool. It does not include player injuries, squad selection, weather, bookmaker markets, or live team strength. Next steps are better rating features, calibration, richer explanations, and a deployed public demo.
-
