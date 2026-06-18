@@ -8,4 +8,6 @@ __pycache__/
 .jupyter/
 .streamlit/secrets.toml
 *.log
-
+demo/*.mov
+demo/*.mp4
+demo/*.m4v
